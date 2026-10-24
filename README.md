@@ -4,9 +4,9 @@ An Android PDF reader designed to help readers understand English vocabulary thr
 
 ## 📥 Download the APK
 
-**[⬇️ Download Book Reader for Android](https://github.com/zorvyn-exe/Book-Reader-with-Translation-/raw/refs/heads/main/app/build/outputs/apk/debug/app-debug.apk)**
+**[⬇️ Download Book Reader for Android](https://github.com/zorvyn-exe/Book-Reader-with-Translation-/raw/refs/heads/main/Book%20Reader%20%28with%20Translation%29.apk)**
 
-- File: `app-debug.apk`
+- File: `Book Reader (with Translation).apk`
 - Version: 1.0.0
 - Minimum Android version: Android 7.0 (API 24)
 
