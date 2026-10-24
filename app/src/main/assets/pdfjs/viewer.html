@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=3.0, user-scalable=yes">
+    <title>Roman Urdu PDF Reader</title>
+    <link rel="stylesheet" href="viewer.css">
+    <!-- Load local PDF.js if available, or CDN fallback -->
+    <script src="pdf.min.js" onerror="this.onerror=null;this.src='https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js';"></script>
+</head>
+<body class="theme-light">
+    <div id="loading-spinner" class="spinner-container">
+        <div class="spinner"></div>
+        <div id="loading-text" class="loading-text">Loading book...</div>
+    </div>
+    
+    <div id="viewer-container" class="viewer-container">
+        <div id="pages-container" class="pages-container">
+            <!-- Dynamic pages rendered here -->
+        </div>
+    </div>
+
+    <script src="viewer.js"></script>
+</body>
+</html>

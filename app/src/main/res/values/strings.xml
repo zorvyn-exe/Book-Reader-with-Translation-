@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Roman Urdu PDF Reader</string>
+    <string name="tab_library">Library</string>
+    <string name="tab_vocabulary">Vocabulary</string>
+    <string name="tab_search">Dictionary</string>
+    <string name="import_pdf">Import PDF</string>
+    <string name="no_books_found">No PDF books imported yet</string>
+    <string name="tap_to_import">Tap the button below to import books from device storage</string>
+    <string name="scanned_pdf_title">Scanned PDF Detected</string>
+    <string name="scanned_pdf_description">This document contains scanned images without selectable text. Word tapping and instant Roman Urdu lookup require searchable text. Please use an OCR-processed copy of this book.</string>
+    <string name="save_to_vocab">Save Word</string>
+    <string name="word_saved">Saved to vocabulary</string>
+    <string name="online_lookup">Online Lookup</string>
+    <string name="searching_online">Searching online...</string>
+    <string name="offline_dictionary_badge">Offline Dictionary</string>
+    <string name="online_result_badge">Online Result</string>
+</resources>

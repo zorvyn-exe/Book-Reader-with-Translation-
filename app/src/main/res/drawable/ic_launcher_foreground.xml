@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Open Book shape -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M28,32 C28,29 32,28 38,28 C45,28 50,30 54,34 C58,30 63,28 70,28 C76,28 80,29 80,32 L80,74 C80,75 76,75 70,75 C63,75 58,77 54,80 C50,77 45,75 38,75 C32,75 28,75 28,74 Z" />
+    <!-- Book Spine Divider -->
+    <path
+        android:fillColor="#0D47A1"
+        android:pathData="M52.5,33 L55.5,33 L55.5,80 L52.5,80 Z" />
+    <!-- Urdu/Translation accent badge -->
+    <path
+        android:fillColor="#FFB300"
+        android:pathData="M66,42 L74,42 L74,45 L70,45 L70,55 L66,55 Z" />
+    <path
+        android:fillColor="#FFB300"
+        android:pathData="M34,42 L42,42 L42,45 L38,45 L38,55 L34,55 Z" />
+</vector>
