@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Verification Script for Roman Urdu PDF Reader Core Engines:
+Verification Script for Book Reader (with Translation) Core Engines:
 1. Lemmatizer rules
 2. Context Disambiguator
 3. Dictionary data integrity
@@ -151,7 +151,7 @@ def test_popup_positioning():
 
 if __name__ == "__main__":
     print("==================================================")
-    print("Roman Urdu PDF Reader - Verification Test Suite")
+    print("Book Reader (with Translation) - Verification Test")
     print("==================================================")
     test_lemmatizer()
     test_context_disambiguator()

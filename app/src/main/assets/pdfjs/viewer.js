@@ -1,5 +1,5 @@
 /**
- * Roman Urdu PDF Reader - Viewer Bridge & Text Layer Interaction Engine
+ * Book Reader (with Translation) - Viewer Bridge & Text Layer Interaction Engine
  */
 (function() {
     'use strict';

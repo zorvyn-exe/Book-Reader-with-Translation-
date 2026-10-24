@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Roman Urdu PDF Reader"
+rootProject.name = "Book Reader (with Translation)"
 include(":app")

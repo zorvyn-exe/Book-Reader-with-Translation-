@@ -1,4 +1,4 @@
-# Roman Urdu PDF Reader 📖✨
+# Book Reader (with Translation) 📖✨
 
 A native Android application built with **Kotlin** and **Jetpack Compose** that allows you to read English PDF books and instantly see Roman Urdu meanings in a popup anchored immediately above any tapped English word — without leaving the book or losing your reading position.
 
@@ -152,7 +152,7 @@ All tests verify:
 
 ## 📖 How to Test Word Tapping & Features
 
-1. Launch **Roman Urdu PDF Reader** on your phone.
+1. Launch **Book Reader (with Translation)** on your phone.
 2. Tap **"+ Import PDF"** on the Library screen.
 3. Select any PDF (or use `sample_books/Sample_English_Story.pdf`).
 4. Tap any English word on the page (e.g., *"courage"*, *"illuminated"*, *"bank"*, *"book"*).
